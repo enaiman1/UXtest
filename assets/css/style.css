@@ -42,3 +42,31 @@ section img {
   
   
 }
+
+
+.PapaDiv {
+  background-color: black;
+  height: 400px;
+  width: 400px;
+}
+
+.littleBox {
+  border-radius: 50%;
+}
+
+.left {
+  background-color: white;
+  height: 40px;
+  width: 40px;
+}
+
+.right{
+  background-color: red;
+  height: 60px;
+  width: 140px;
+ margin: 10px auto;
+ position: relative;
+ left: 200px;
+ top: -75px;
+
+}
